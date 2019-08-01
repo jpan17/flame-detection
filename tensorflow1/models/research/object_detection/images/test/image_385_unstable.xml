@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image_385_unstable.png</filename>
+	<path>C:\flame-detection\tensorflow1\models\research\object_detection\images\test\image_385_unstable.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>220</ymin>
+			<xmax>482</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>burner cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>238</ymin>
+			<xmax>505</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

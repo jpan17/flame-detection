@@ -1,0 +1,417 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image_100_unstable.png,720,480,burner cap,477,234,508,268
+image_100_unstable.png,720,480,stable,327,172,473,315
+image_105_unstable.png,720,480,stable,346,177,472,310
+image_105_unstable.png,720,480,burner cap,478,234,508,265
+image_10_unstable.png,720,480,stable,316,186,482,301
+image_10_unstable.png,720,480,burner cap,478,236,508,268
+image_10_unstable.png,720,480,pilot flame,411,106,506,144
+image_10_unstable.png,720,480,pilot flame,415,165,508,207
+image_10_unstable.png,720,480,pilot flame,426,293,507,327
+image_10_unstable.png,720,480,pilot flame,421,345,504,382
+image_110_stable.png,720,480,stable,326,198,486,318
+image_110_stable.png,720,480,burner cap,476,237,506,267
+image_115_stable.png,720,480,burner cap,472,236,505,265
+image_115_stable.png,720,480,stable,325,200,479,309
+image_120_stable.png,720,480,stable,379,215,478,284
+image_120_stable.png,720,480,burner cap,478,232,504,266
+image_125_stable.png,720,480,stable,375,199,479,297
+image_125_stable.png,720,480,burner cap,473,229,504,272
+image_130_unstable.png,720,480,burner cap,479,233,507,274
+image_130_unstable.png,720,480,stable,338,200,481,316
+image_135_unstable.png,720,480,stable,372,206,473,305
+image_135_unstable.png,720,480,burner cap,477,230,510,267
+image_140_unstable.png,720,480,burner cap,479,230,507,270
+image_140_unstable.png,720,480,stable,321,201,475,308
+image_145_stable.png,720,480,burner cap,476,233,507,269
+image_145_stable.png,720,480,stable,332,191,475,320
+image_150_stable.png,720,480,stable,349,207,479,311
+image_150_stable.png,720,480,burner cap,480,236,509,269
+image_155_stable.png,720,480,burner cap,478,232,505,265
+image_155_stable.png,720,480,stable,303,209,475,320
+image_15_unstable.png,720,480,stable,368,202,478,298
+image_15_unstable.png,720,480,burner cap,480,230,508,270
+image_15_unstable.png,720,480,pilot flame,423,112,504,144
+image_15_unstable.png,720,480,pilot flame,421,172,508,204
+image_15_unstable.png,720,480,pilot flame,429,291,505,323
+image_15_unstable.png,720,480,pilot flame,438,349,505,387
+image_160_stable.png,720,480,burner cap,473,233,510,270
+image_160_stable.png,720,480,stable,300,193,475,318
+image_165_unstable.png,720,480,stable,334,198,478,313
+image_165_unstable.png,720,480,burner cap,473,231,501,262
+image_170_unstable.png,720,480,burner cap,477,235,505,266
+image_170_unstable.png,720,480,stable,316,199,475,315
+image_175_stable.png,720,480,stable,359,211,481,301
+image_175_stable.png,720,480,burner cap,473,232,505,268
+image_180_stable.png,720,480,burner cap,476,232,510,266
+image_180_stable.png,720,480,stable,372,223,476,291
+image_185_unstable.png,720,480,burner cap,483,236,515,270
+image_185_unstable.png,720,480,stable,283,207,479,309
+image_185_unstable.png,720,480,pilot flame,436,287,511,326
+image_185_unstable.png,720,480,pilot flame,412,340,509,388
+image_185_unstable.png,720,480,pilot flame,379,113,507,150
+image_185_unstable.png,720,480,pilot flame,389,174,511,202
+image_190_unstable.png,720,480,pilot flame,404,113,512,150
+image_190_unstable.png,720,480,pilot flame,409,171,509,204
+image_190_unstable.png,720,480,pilot flame,441,291,510,322
+image_190_unstable.png,720,480,pilot flame,412,338,507,386
+image_190_unstable.png,720,480,stable,113,202,483,314
+image_190_unstable.png,720,480,burner cap,480,240,511,272
+image_195_unstable.png,720,480,burner cap,479,235,507,269
+image_195_unstable.png,720,480,stable,343,218,481,301
+image_200_unstable.png,720,480,stable,365,215,472,296
+image_200_unstable.png,720,480,burner cap,477,238,508,269
+image_205_stable.png,720,480,stable,288,199,485,301
+image_205_stable.png,720,480,pilot flame,426,111,510,146
+image_205_stable.png,720,480,pilot flame,418,170,509,202
+image_205_stable.png,720,480,pilot flame,446,292,512,323
+image_205_stable.png,720,480,pilot flame,372,328,508,386
+image_205_stable.png,720,480,burner cap,480,236,513,269
+image_20_unstable.png,720,480,burner cap,478,234,504,268
+image_20_unstable.png,720,480,stable,352,205,475,287
+image_20_unstable.png,720,480,pilot flame,415,109,503,141
+image_20_unstable.png,720,480,pilot flame,418,165,507,198
+image_20_unstable.png,720,480,pilot flame,434,283,505,323
+image_20_unstable.png,720,480,pilot flame,437,352,507,384
+image_210_stable.png,720,480,pilot flame,404,111,508,151
+image_210_stable.png,720,480,pilot flame,411,171,505,205
+image_210_stable.png,720,480,pilot flame,423,291,508,322
+image_210_stable.png,720,480,pilot flame,407,343,506,383
+image_210_stable.png,720,480,stable,252,220,480,301
+image_210_stable.png,720,480,burner cap,482,234,510,270
+image_215_stable.png,720,480,burner cap,481,231,508,269
+image_215_stable.png,720,480,stable,223,196,481,310
+image_215_stable.png,720,480,pilot flame,365,113,507,154
+image_215_stable.png,720,480,pilot flame,411,169,507,205
+image_215_stable.png,720,480,pilot flame,431,292,511,320
+image_215_stable.png,720,480,pilot flame,386,336,508,386
+image_220_stable.png,720,480,burner cap,479,233,507,267
+image_220_stable.png,720,480,stable,344,206,477,308
+image_225_unstable.png,720,480,stable,365,217,484,295
+image_225_unstable.png,720,480,burner cap,483,238,506,265
+image_225_unstable.png,720,480,pilot flame,390,104,505,156
+image_225_unstable.png,720,480,pilot flame,419,174,508,209
+image_225_unstable.png,720,480,pilot flame,437,295,508,330
+image_225_unstable.png,720,480,pilot flame,407,336,510,382
+image_230_unstable.png,720,480,pilot flame,408,115,507,146
+image_230_unstable.png,720,480,pilot flame,398,173,508,205
+image_230_unstable.png,720,480,pilot flame,421,285,508,330
+image_230_unstable.png,720,480,pilot flame,401,344,509,386
+image_230_unstable.png,720,480,stable,295,225,480,295
+image_230_unstable.png,720,480,burner cap,483,235,511,271
+image_235_unstable.png,720,480,burner cap,477,233,508,260
+image_235_unstable.png,720,480,unstable,286,165,473,321
+image_240_unstable.png,720,480,unstable,300,171,479,317
+image_240_unstable.png,720,480,burner cap,480,231,504,261
+image_245_stable.png,720,480,burner cap,479,239,516,272
+image_245_stable.png,720,480,stable,151,206,478,322
+image_245_stable.png,720,480,pilot flame,383,106,503,155
+image_245_stable.png,720,480,pilot flame,373,167,511,209
+image_245_stable.png,720,480,pilot flame,437,291,504,326
+image_245_stable.png,720,480,pilot flame,409,338,507,385
+image_250_stable.png,720,480,pilot flame,421,345,507,381
+image_250_stable.png,720,480,pilot flame,432,295,512,329
+image_250_stable.png,720,480,pilot flame,408,166,505,201
+image_250_stable.png,720,480,pilot flame,388,116,510,150
+image_250_stable.png,720,480,stable,197,216,483,320
+image_250_stable.png,720,480,burner cap,480,238,508,268
+image_255_stable.png,720,480,burner cap,477,231,507,267
+image_255_stable.png,720,480,stable,337,177,476,311
+image_25_unstable.png,720,480,unstable,333,181,481,304
+image_25_unstable.png,720,480,burner cap,476,234,507,265
+image_25_unstable.png,720,480,pilot flame,394,113,506,147
+image_25_unstable.png,720,480,pilot flame,399,167,507,205
+image_25_unstable.png,720,480,pilot flame,419,290,511,323
+image_25_unstable.png,720,480,pilot flame,400,340,502,382
+image_260_stable.png,720,480,burner cap,480,235,503,271
+image_260_stable.png,720,480,stable,288,173,477,323
+image_265_stable.png,720,480,stable,332,204,477,312
+image_265_stable.png,720,480,burner cap,477,230,507,275
+image_270_stable.png,720,480,burner cap,477,232,509,272
+image_270_stable.png,720,480,stable,293,217,483,304
+image_270_stable.png,720,480,pilot flame,400,112,509,147
+image_270_stable.png,720,480,pilot flame,392,173,508,208
+image_270_stable.png,720,480,pilot flame,430,287,508,329
+image_270_stable.png,720,480,pilot flame,374,338,509,383
+image_275_stable.png,720,480,pilot flame,396,108,507,155
+image_275_stable.png,720,480,pilot flame,392,175,513,207
+image_275_stable.png,720,480,pilot flame,435,286,511,324
+image_275_stable.png,720,480,pilot flame,407,341,507,381
+image_275_stable.png,720,480,stable,319,222,483,302
+image_275_stable.png,720,480,burner cap,480,235,507,269
+image_280_unstable.png,720,480,burner cap,479,233,507,263
+image_280_unstable.png,720,480,stable,337,176,476,308
+image_285_unstable.png,720,480,stable,378,215,479,304
+image_285_unstable.png,720,480,burner cap,473,231,507,269
+image_290_unstable.png,720,480,burner cap,480,235,509,269
+image_290_unstable.png,720,480,stable,179,208,482,311
+image_290_unstable.png,720,480,pilot flame,416,111,511,140
+image_290_unstable.png,720,480,pilot flame,402,170,507,203
+image_290_unstable.png,720,480,pilot flame,432,295,510,325
+image_290_unstable.png,720,480,pilot flame,397,341,507,381
+image_295_unstable.png,720,480,pilot flame,401,344,506,381
+image_295_unstable.png,720,480,pilot flame,444,294,510,324
+image_295_unstable.png,720,480,pilot flame,415,170,511,198
+image_295_unstable.png,720,480,pilot flame,381,113,508,152
+image_295_unstable.png,720,480,stable,334,225,480,302
+image_295_unstable.png,720,480,burner cap,480,232,510,269
+image_300_stable.png,720,480,burner cap,479,235,508,266
+image_300_stable.png,720,480,stable,350,191,483,318
+image_305_stable.png,720,480,stable,337,201,476,311
+image_305_stable.png,720,480,burner cap,480,229,507,268
+image_30_unstable.png,720,480,burner cap,476,228,506,269
+image_30_unstable.png,720,480,unstable,306,179,477,312
+image_30_unstable.png,720,480,pilot flame,417,288,507,324
+image_30_unstable.png,720,480,pilot flame,402,334,505,384
+image_30_unstable.png,720,480,pilot flame,404,111,504,145
+image_30_unstable.png,720,480,pilot flame,396,167,505,205
+image_310_unstable.png,720,480,pilot flame,393,110,509,153
+image_310_unstable.png,720,480,pilot flame,414,169,514,203
+image_310_unstable.png,720,480,pilot flame,436,288,510,329
+image_310_unstable.png,720,480,pilot flame,403,340,505,386
+image_310_unstable.png,720,480,stable,46,190,484,312
+image_310_unstable.png,720,480,burner cap,486,233,510,269
+image_315_unstable.png,720,480,burner cap,479,238,508,269
+image_315_unstable.png,720,480,stable,61,212,488,306
+image_315_unstable.png,720,480,pilot flame,397,115,506,153
+image_315_unstable.png,720,480,pilot flame,380,170,505,207
+image_315_unstable.png,720,480,pilot flame,437,290,512,321
+image_315_unstable.png,720,480,pilot flame,399,327,503,382
+image_320_stable.png,720,480,burner cap,477,232,506,262
+image_320_stable.png,720,480,stable,329,189,473,317
+image_325_stable.png,720,480,stable,325,191,475,307
+image_325_stable.png,720,480,burner cap,474,231,510,266
+image_330_unstable.png,720,480,burner cap,476,231,506,265
+image_330_unstable.png,720,480,stable,387,212,473,296
+image_335_unstable.png,720,480,stable,381,214,479,295
+image_335_unstable.png,720,480,burner cap,477,236,500,266
+image_340_stable.png,720,480,burner cap,476,235,507,268
+image_340_stable.png,720,480,stable,334,201,476,308
+image_345_stable.png,720,480,stable,341,212,477,304
+image_345_stable.png,720,480,burner cap,476,231,514,270
+image_350_stable.png,720,480,stable,361,213,477,302
+image_350_stable.png,720,480,burner cap,477,234,509,267
+image_355_stable.png,720,480,burner cap,475,235,511,273
+image_355_stable.png,720,480,stable,358,212,476,301
+image_35_unstable.png,720,480,unstable,384,211,479,289
+image_35_unstable.png,720,480,burner cap,479,234,504,263
+image_35_unstable.png,720,480,pilot flame,431,117,508,143
+image_35_unstable.png,720,480,pilot flame,416,173,507,199
+image_35_unstable.png,720,480,pilot flame,436,289,512,329
+image_35_unstable.png,720,480,pilot flame,434,347,507,384
+image_360_stable.png,720,480,burner cap,474,231,507,266
+image_360_stable.png,720,480,stable,322,197,483,305
+image_365_unstable.png,720,480,stable,381,209,477,285
+image_365_unstable.png,720,480,burner cap,476,234,508,266
+image_370_unstable.png,720,480,burner cap,476,237,510,266
+image_370_unstable.png,720,480,stable,380,219,479,283
+image_375_stable.png,720,480,stable,343,212,478,302
+image_375_stable.png,720,480,burner cap,476,235,502,263
+image_380_stable.png,720,480,burner cap,476,233,509,270
+image_380_stable.png,720,480,stable,319,199,476,312
+image_385_unstable.png,720,480,stable,394,220,482,288
+image_385_unstable.png,720,480,burner cap,480,238,505,265
+image_390_unstable.png,720,480,burner cap,475,232,501,262
+image_390_unstable.png,720,480,stable,384,217,480,290
+image_395_unstable.png,720,480,stable,396,221,478,287
+image_395_unstable.png,720,480,burner cap,479,236,514,266
+image_400_stable.png,720,480,burner cap,473,230,509,271
+image_400_stable.png,720,480,stable,311,206,477,312
+image_405_stable.png,720,480,stable,321,214,478,309
+image_405_stable.png,720,480,burner cap,473,230,507,269
+image_40_unstable.png,720,480,burner cap,478,237,507,265
+image_40_unstable.png,720,480,unstable,364,211,480,285
+image_40_unstable.png,720,480,pilot flame,412,115,506,148
+image_40_unstable.png,720,480,pilot flame,427,173,507,206
+image_40_unstable.png,720,480,pilot flame,433,291,508,326
+image_40_unstable.png,720,480,pilot flame,429,345,505,383
+image_410_unstable.png,720,480,burner cap,478,238,515,269
+image_410_unstable.png,720,480,stable,343,212,480,300
+image_415_unstable.png,720,480,stable,343,227,473,315
+image_415_unstable.png,720,480,burner cap,477,236,506,265
+image_420_stable.png,720,480,burner cap,477,232,510,268
+image_420_stable.png,720,480,stable,305,197,476,302
+image_425_stable.png,720,480,stable,323,200,476,313
+image_425_stable.png,720,480,burner cap,479,236,505,269
+image_430_unstable.png,720,480,burner cap,475,232,507,276
+image_430_unstable.png,720,480,stable,259,215,480,319
+image_435_unstable.png,720,480,stable,364,215,476,296
+image_435_unstable.png,720,480,burner cap,477,233,511,266
+image_440_unstable.png,720,480,burner cap,473,233,511,270
+image_440_unstable.png,720,480,stable,347,224,483,305
+image_445_unstable.png,720,480,burner cap,477,237,509,275
+image_445_unstable.png,720,480,stable,319,213,474,302
+image_450_unstable.png,720,480,stable,299,213,477,311
+image_450_unstable.png,720,480,burner cap,476,234,505,272
+image_455_unstable.png,720,480,burner cap,479,234,506,270
+image_455_unstable.png,720,480,stable,318,211,476,309
+image_45_unstable.png,720,480,stable,388,229,480,281
+image_45_unstable.png,720,480,burner cap,476,237,504,265
+image_45_unstable.png,720,480,pilot flame,416,109,503,146
+image_45_unstable.png,720,480,pilot flame,409,172,509,201
+image_45_unstable.png,720,480,pilot flame,435,288,506,324
+image_45_unstable.png,720,480,pilot flame,423,345,503,382
+image_460_unstable.png,720,480,stable,365,219,482,303
+image_460_unstable.png,720,480,burner cap,480,238,509,270
+image_465_stable.png,720,480,burner cap,479,237,500,266
+image_465_stable.png,720,480,stable,344,214,477,299
+image_465_stable.png,720,480,pilot flame,402,107,507,152
+image_465_stable.png,720,480,pilot flame,411,170,508,198
+image_465_stable.png,720,480,pilot flame,436,292,507,324
+image_465_stable.png,720,480,pilot flame,405,336,501,386
+image_470_stable.png,720,480,pilot flame,407,114,504,143
+image_470_stable.png,720,480,pilot flame,402,173,507,206
+image_470_stable.png,720,480,pilot flame,433,292,508,326
+image_470_stable.png,720,480,pilot flame,419,347,506,383
+image_470_stable.png,720,480,stable,346,219,482,293
+image_470_stable.png,720,480,burner cap,476,234,506,266
+image_475_unstable.png,720,480,burner cap,476,233,505,264
+image_475_unstable.png,720,480,stable,354,213,479,291
+image_475_unstable.png,720,480,pilot flame,404,111,508,144
+image_475_unstable.png,720,480,pilot flame,412,170,507,205
+image_475_unstable.png,720,480,pilot flame,434,291,510,328
+image_475_unstable.png,720,480,pilot flame,427,346,506,385
+image_480_unstable.png,720,480,pilot flame,393,109,503,152
+image_480_unstable.png,720,480,pilot flame,407,168,507,204
+image_480_unstable.png,720,480,pilot flame,443,290,507,327
+image_480_unstable.png,720,480,pilot flame,403,345,507,386
+image_480_unstable.png,720,480,stable,369,224,482,301
+image_480_unstable.png,720,480,burner cap,475,239,508,268
+image_485_unstable.png,720,480,burner cap,480,231,507,273
+image_485_unstable.png,720,480,stable,352,211,482,290
+image_485_unstable.png,720,480,pilot flame,402,113,503,155
+image_485_unstable.png,720,480,pilot flame,417,172,508,201
+image_485_unstable.png,720,480,pilot flame,443,294,508,324
+image_485_unstable.png,720,480,pilot flame,376,336,503,386
+image_490_unstable.png,720,480,pilot flame,395,111,500,150
+image_490_unstable.png,720,480,pilot flame,419,170,504,208
+image_490_unstable.png,720,480,pilot flame,431,290,509,328
+image_490_unstable.png,720,480,pilot flame,381,334,506,382
+image_490_unstable.png,720,480,stable,342,212,483,290
+image_490_unstable.png,720,480,burner cap,481,237,507,269
+image_495_unstable.png,720,480,burner cap,480,238,505,271
+image_495_unstable.png,720,480,stable,326,217,479,293
+image_495_unstable.png,720,480,pilot flame,409,111,507,155
+image_495_unstable.png,720,480,pilot flame,402,174,505,204
+image_495_unstable.png,720,480,pilot flame,444,294,505,324
+image_495_unstable.png,720,480,pilot flame,401,348,502,381
+image_500_unstable.png,720,480,pilot flame,402,111,503,148
+image_500_unstable.png,720,480,pilot flame,406,176,507,203
+image_500_unstable.png,720,480,pilot flame,429,290,505,323
+image_500_unstable.png,720,480,pilot flame,410,345,505,384
+image_500_unstable.png,720,480,stable,352,210,479,293
+image_500_unstable.png,720,480,burner cap,477,236,509,267
+image_505_unstable.png,720,480,burner cap,478,236,505,268
+image_505_unstable.png,720,480,stable,362,222,478,291
+image_505_unstable.png,720,480,pilot flame,408,112,502,147
+image_505_unstable.png,720,480,pilot flame,412,172,507,202
+image_505_unstable.png,720,480,pilot flame,441,291,504,324
+image_505_unstable.png,720,480,pilot flame,415,344,507,381
+image_50_unstable.png,720,480,pilot flame,419,107,506,150
+image_50_unstable.png,720,480,pilot flame,407,171,502,204
+image_50_unstable.png,720,480,pilot flame,430,290,506,327
+image_50_unstable.png,720,480,pilot flame,424,347,502,383
+image_50_unstable.png,720,480,unstable,376,217,481,286
+image_50_unstable.png,720,480,burner cap,480,234,501,266
+image_510_stable.png,720,480,burner cap,483,234,505,267
+image_510_stable.png,720,480,stable,216,229,487,299
+image_510_stable.png,720,480,pilot flame,396,111,505,144
+image_510_stable.png,720,480,pilot flame,419,176,504,203
+image_510_stable.png,720,480,pilot flame,444,291,502,322
+image_510_stable.png,720,480,pilot flame,407,345,507,381
+image_515_stable.png,720,480,pilot flame,400,107,503,148
+image_515_stable.png,720,480,pilot flame,397,168,507,208
+image_515_stable.png,720,480,pilot flame,434,293,511,326
+image_515_stable.png,720,480,pilot flame,418,347,504,383
+image_515_stable.png,720,480,stable,158,222,482,307
+image_515_stable.png,720,480,burner cap,479,235,513,272
+image_520_stable.png,720,480,burner cap,477,237,511,269
+image_520_stable.png,720,480,stable,279,223,485,301
+image_520_stable.png,720,480,pilot flame,394,114,508,145
+image_520_stable.png,720,480,pilot flame,421,165,510,205
+image_520_stable.png,720,480,pilot flame,441,295,510,323
+image_520_stable.png,720,480,pilot flame,409,347,506,386
+image_525_stable.png,720,480,pilot flame,388,107,507,147
+image_525_stable.png,720,480,pilot flame,423,174,510,201
+image_525_stable.png,720,480,pilot flame,436,290,509,327
+image_525_stable.png,720,480,pilot flame,390,334,507,385
+image_525_stable.png,720,480,burner cap,481,233,512,271
+image_525_stable.png,720,480,stable,308,209,478,299
+image_530_unstable.png,720,480,stable,355,215,486,287
+image_530_unstable.png,720,480,burner cap,482,238,509,269
+image_530_unstable.png,720,480,pilot flame,405,112,502,148
+image_530_unstable.png,720,480,pilot flame,419,171,507,202
+image_530_unstable.png,720,480,pilot flame,444,293,505,322
+image_530_unstable.png,720,480,pilot flame,412,340,504,383
+image_535_unstable.png,720,480,pilot flame,378,115,507,151
+image_535_unstable.png,720,480,pilot flame,419,174,508,204
+image_535_unstable.png,720,480,pilot flame,439,291,505,319
+image_535_unstable.png,720,480,pilot flame,390,333,503,377
+image_535_unstable.png,720,480,stable,368,213,480,296
+image_535_unstable.png,720,480,burner cap,477,232,507,266
+image_540_stable.png,720,480,burner cap,481,238,506,270
+image_540_stable.png,720,480,stable,241,228,481,297
+image_540_stable.png,720,480,pilot flame,391,109,508,145
+image_540_stable.png,720,480,pilot flame,413,174,505,205
+image_540_stable.png,720,480,pilot flame,397,292,505,321
+image_540_stable.png,720,480,pilot flame,397,340,508,380
+image_545_stable.png,720,480,pilot flame,388,330,504,383
+image_545_stable.png,720,480,pilot flame,405,292,507,324
+image_545_stable.png,720,480,pilot flame,411,171,502,201
+image_545_stable.png,720,480,pilot flame,369,116,507,148
+image_545_stable.png,720,480,stable,357,218,477,284
+image_545_stable.png,720,480,burner cap,480,236,507,268
+image_550_stable.png,720,480,burner cap,480,235,512,273
+image_550_stable.png,720,480,stable,329,205,478,299
+image_550_stable.png,720,480,pilot flame,416,340,507,383
+image_550_stable.png,720,480,pilot flame,429,289,509,324
+image_550_stable.png,720,480,pilot flame,400,172,507,201
+image_550_stable.png,720,480,pilot flame,355,115,508,152
+image_555_unstable.png,720,480,pilot flame,374,114,506,145
+image_555_unstable.png,720,480,pilot flame,414,171,508,202
+image_555_unstable.png,720,480,pilot flame,422,290,509,322
+image_555_unstable.png,720,480,pilot flame,390,340,507,381
+image_555_unstable.png,720,480,stable,192,224,481,301
+image_555_unstable.png,720,480,burner cap,482,233,510,272
+image_55_unstable.png,720,480,unstable,325,178,482,306
+image_55_unstable.png,720,480,burner cap,477,231,505,261
+image_560_unstable.png,720,480,burner cap,479,234,507,273
+image_560_unstable.png,720,480,stable,147,229,480,306
+image_560_unstable.png,720,480,pilot flame,397,338,504,383
+image_560_unstable.png,720,480,pilot flame,437,294,507,325
+image_560_unstable.png,720,480,pilot flame,367,169,509,205
+image_560_unstable.png,720,480,pilot flame,369,112,506,150
+image_565_unstable.png,720,480,pilot flame,372,340,502,381
+image_565_unstable.png,720,480,pilot flame,409,291,509,324
+image_565_unstable.png,720,480,pilot flame,396,166,508,202
+image_565_unstable.png,720,480,pilot flame,401,112,507,145
+image_565_unstable.png,720,480,stable,361,219,481,278
+image_565_unstable.png,720,480,burner cap,480,234,510,263
+image_570_unstable.png,720,480,burner cap,483,233,508,269
+image_570_unstable.png,720,480,stable,389,226,483,280
+image_570_unstable.png,720,480,pilot flame,391,106,504,148
+image_570_unstable.png,720,480,pilot flame,420,173,507,205
+image_570_unstable.png,720,480,pilot flame,427,290,508,324
+image_570_unstable.png,720,480,pilot flame,407,343,505,386
+image_5_unstable.png,720,480,pilot flame,407,342,510,388
+image_5_unstable.png,720,480,pilot flame,429,292,509,327
+image_5_unstable.png,720,480,pilot flame,408,168,507,200
+image_5_unstable.png,720,480,pilot flame,402,113,505,148
+image_5_unstable.png,720,480,unstsable,349,201,483,293
+image_5_unstable.png,720,480,burner cap,479,234,507,266
+image_60_unstable.png,720,480,unstable,318,176,489,309
+image_60_unstable.png,720,480,burner cap,479,233,503,261
+image_65_unstable.png,720,480,unstable,319,177,483,319
+image_65_unstable.png,720,480,burner cap,477,230,511,263
+image_70_unstable.png,720,480,unstable,336,179,476,311
+image_70_unstable.png,720,480,burner cap,476,231,505,266
+image_75_unstable.png,720,480,unstable,371,186,481,302
+image_75_unstable.png,720,480,burner cap,480,234,506,266
+image_80_unstable.png,720,480,unstable,325,182,476,305
+image_80_unstable.png,720,480,burner cap,480,236,509,268
+image_85_unstable.png,720,480,unstable,336,181,479,314
+image_85_unstable.png,720,480,burner cap,481,232,509,265
+image_90_unstable.png,720,480,unstable,318,185,473,301
+image_90_unstable.png,720,480,burner cap,473,233,506,265
+image_95_unstable.png,720,480,unstable,352,191,479,306
+image_95_unstable.png,720,480,burner cap,479,227,505,269
