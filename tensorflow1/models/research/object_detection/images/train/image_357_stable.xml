@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image_357_stable.png</filename>
+	<path>C:\flame-detection\tensorflow1\models\research\object_detection\images\train\image_357_stable.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>220</ymin>
+			<xmax>482</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>burner cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>235</ymin>
+			<xmax>507</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
