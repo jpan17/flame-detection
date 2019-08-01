@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image_76_unstable.png</filename>
+	<path>C:\flame-detection\tensorflow1\models\research\object_detection\images\train\image_76_unstable.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unstable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>177</ymin>
+			<xmax>484</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>burner cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>231</ymin>
+			<xmax>508</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

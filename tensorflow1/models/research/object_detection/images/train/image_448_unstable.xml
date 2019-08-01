@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>train</folder>
 	<filename>image_448_unstable.png</filename>
 	<path>C:\flame-detection\tensorflow1\models\research\object_detection\images\train\image_448_unstable.png</path>
